@@ -1,0 +1,8 @@
+{
+  "name": "bc-connectordev",
+  "description": "Develops, tests, and publishes custom Boomi connectors built with the Connector SDK — Java connector projects, connector-descriptor.xml, ConnectorTester, and the Connectors API deployment lifecycle (connector groups, classifications, version upload, version change). Use when creating or modifying a custom connector. Distinct from configuring or using connectors inside integration processes (boomi-integration).",
+  "version": "0.0.50",
+  "author": {
+    "name": "Boomi"
+  }
+}

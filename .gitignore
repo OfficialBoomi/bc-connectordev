@@ -1,0 +1,17 @@
+# Project
+/references/
+/active-development/
+hook-logs/
+CLAUDE.local.md
+AGENTS.md
+AGENTS.override.md
+.agents/
+.codex/
+.claude/settings.local.json
+.env
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
